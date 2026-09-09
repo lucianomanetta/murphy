@@ -10,6 +10,6 @@ This repository does not yet distribute Murphy binaries. These instructions desc
 6. In Activity, choose **Export technical report (.md)** to export while monitoring continues. Inspect the report's cutoff and coverage bounds.
 7. Use **Mark as reviewed** after investigating a pending finding. **Exit Murphy** closes the application completely.
 
-Settings → Language supports English (United States) and Português (Brasil). The choice is stored locally.
+Settings → Language supports English (United States) and Portuguese (Brazil). The choice is stored locally.
 
 Read [privacy](../PRIVACY.md) and [limitations](../KNOWN_LIMITATIONS.md) before sharing reports or interpreting an alert.
