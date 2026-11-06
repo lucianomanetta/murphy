@@ -47,6 +47,10 @@ See [screenshot context](docs/SCREENSHOTS.md) for the scope of these images.
 - [Privacy](PRIVACY.md), [security](SECURITY.md) and [known limitations](KNOWN_LIMITATIONS.md)
 - [Public changelog](CHANGELOG.md)
 
+## Writing
+
+- [An agent's report is not evidence](docs/an-agents-report-is-not-evidence.md). Why a coding agent's self-report fails and how it fails, what it means to reconstruct its work from outside, the four-way separation of observed fact from inference, and where divergence concentrates across more than 50,000 observed operations.
+
 The Windows interface and user-facing reports support English (United States) and Portuguese (Brazil). This public documentation starts in English.
 
 Murphy is proprietary. Publishing these materials does not publish its source code or grant an open-source license to the product. No content license has been added in this initial publication.
